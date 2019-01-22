@@ -134,6 +134,7 @@ render(){
 | onSelectCountry | function(iso2) | null | function to be invoked when country picker is selected |
 | onPressFlag | function() | null | function to be invoked when press on flag image |
 | countriesList | array | null | custom countries list |
+| modalContainer | object | null | custom styles for country picker modal |
 
 ### Functions:
 | Function Name | Return Type | Parameters | Description |
